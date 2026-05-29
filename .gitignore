@@ -1,0 +1,12 @@
+# Object files
+*.o
+
+# Executables (generated from .asm files)
+/hello
+
+# Database
+hogwarts.db
+
+# Rust build artifacts
+target/
+Cargo.lock
